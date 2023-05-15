@@ -1,0 +1,24 @@
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color: rgb(137, 195, 195);
+}
+
+.calculator {
+  background-color: aliceblue;
+  padding: 20px;
+  border-radius: 5px;
+}
+
+.buttons {
+  width: 232px;
+}
+
+button {
+  background-color: rgb(131, 129, 129);
+  border: none;
+  color: white;
+  font-size: 40px;
+}
